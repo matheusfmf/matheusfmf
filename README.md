@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Matheus Freitas
 
-<!--
-**matheusfmf/matheusfmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work at the **Ministry of Health**, managing **two Malaria Control systems** using **ASP, Oracle Database, and jQuery**.  
+I use **Cypress with JavaScript and TypeScript** to automate system workflows.  
 
-Here are some ideas to get you started:
+I also work as a **freelance developer**, building **frontend projects with Next.js and Tailwind CSS**.  
+Additionally, I am currently **studying Java with Spring** to expand my backend skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contact
+
+- 📧 Email: [matheusfreitas1402@gmail.com](mailto:matheusfreitas1402@gmail.com)  
+- 🌐 LinkedIn: [linkedin.com/in/matheusfreitasmarques/](https://www.linkedin.com/in/matheusfreitasmarques/)  
+
+---
+
+## 🛠 Technologies & Tools
+
+- **Frontend:** Next.js, Tailwind CSS, jQuery  
+- **Backend / Legacy Systems:** ASP, Oracle Database  
+- **Testing & Automation:** Cypress, JavaScript, TypeScript  
+- **Learning:** Java, Spring  
+
+---
+
+> “Clean code is the bridge between idea and execution.” 🚀
+
