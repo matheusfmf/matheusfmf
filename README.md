@@ -17,7 +17,7 @@ Additionally, I am currently **studying Java with Spring** to expand my backend 
 
 ## 🛠 Technologies & Tools
 
-- **Frontend:** Next.js, Tailwind CSS, jQuery  
+- **Frontend:** HTML, CSS, jQuery, AJAX, Next.js, Tailwind CSS
 - **Backend / Legacy Systems:** ASP, Oracle Database  
 - **Testing & Automation:** Cypress, JavaScript, TypeScript  
 - **Learning:** Java, Spring  
